@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinHW!</string>
+    <string name="edText">edText</string>
+    <string name="Ok">Ok</string>
+</resources>
